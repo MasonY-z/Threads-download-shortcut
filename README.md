@@ -16,7 +16,7 @@ Every public Threads post has an **embed page** (`.../post/<id>/embed`) that loa
 
 ## Install
 
-- **Option A — `.shortcut` file (recommended):** download [`Threads Download.shortcut`](./Threads%20Download.shortcut) from this repo, open it on your iPhone (e.g. from the Files app), and tap **Add Shortcut**. The file is signed for **Anyone**, so no special settings are needed.
+- **Option A — `.shortcut` file (recommended):** download `Threads-Download.shortcut` from the [**latest release**](https://github.com/MasonY-z/Threads-download-shortcut/releases/latest), open it on your iPhone (e.g. from the Files app), and tap **Add Shortcut**. The file is signed for **Anyone**, so no special settings are needed.
 - **Option B — build it yourself:** follow the steps below (about 10 minutes)
 
 > Built and tested on the latest iOS. Older iOS versions may fail to import it — use Option B in that case.
@@ -120,7 +120,7 @@ MIT
 
 ### 安装
 
-- **方式 A：`.shortcut` 文件（推荐）**：下载本仓库里的 [`Threads Download.shortcut`](./Threads%20Download.shortcut)，在 iPhone 上打开（比如从「文件」App 里点开），然后点 **Add Shortcut**。文件已签名为「任何人」可用，不需要改任何设置。
+- **方式 A：`.shortcut` 文件（推荐）**：从 [**最新 Release**](https://github.com/MasonY-z/Threads-download-shortcut/releases/latest) 下载 `Threads-Download.shortcut`，在 iPhone 上打开（比如从「文件」App 里点开），然后点 **Add Shortcut**。文件已签名为「任何人」可用，不需要改任何设置。
 - **方式 B：自己搭建**：按照上面英文部分的步骤表操作，大约 10 分钟
 
 > 在最新版 iOS 上制作和测试。旧版本 iOS 可能无法导入，这种情况请用方式 B。
